@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-This is just a dummy project, to learn how to work with GitHub.
+This is just to learn how to work with GitHub.
